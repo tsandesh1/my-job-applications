@@ -7,3 +7,6 @@ run: npm install
 run: npm run dev
 Open your browser and go to: http://localhost:3000/
 Enjoy !
+
+CRUD help taken from:
+https://zellwk.com/blog/crud-express-mongodb/
